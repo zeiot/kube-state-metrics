@@ -1,4 +1,8 @@
-# RPI kube-state-metrics ChangeLog
+# ARM kube-state-metrics ChangeLog
+
+## Version 1.2.0 (07/10/2019)
+
+- Add release 1.6.0
 
 ## Version 1.1.1 (02/26/2019)
 
